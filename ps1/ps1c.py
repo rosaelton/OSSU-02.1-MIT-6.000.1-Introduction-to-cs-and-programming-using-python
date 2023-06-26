@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 ANNUAL_SALARY = int(input("Enter the starting salary: "))
 
 semi_annual_raise = .07
